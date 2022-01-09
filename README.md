@@ -1,10 +1,10 @@
-# Welcome to OpenStudyWeb Project
+# Welcome to GH-OpenStudyWeb Project
 > url: geohyeon.com
 
-### 1. What is OpenStudyWeb?
+### 1. What is GH-OpenStudyWeb?
 When studying, we go through the following process:
 
-### 2. OpenStudyWeb Plan
+### 2. GH-OpenStudyWeb Plan
 * Step 1. My personal studing website <br>
   *  Project Timeline: 2022.01.01 ~ 2023.01.01 
 * Step 2. Convert personal website to open study website   <br>
