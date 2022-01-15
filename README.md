@@ -1,5 +1,5 @@
 # Welcome to GH-OpenStudyWeb Project
-> url: [Go to geohyeon web](https://www.geohyeon.com)
+> url: [Go to geohyeon web](http://www.geohyeon.com)
 
 ### 1. What is GH-OpenStudyWeb?
 When studying, we go through the following process:
